@@ -1,0 +1,2 @@
+file in write mode ....im cube solving champain
+ file in append mode ....my cube collection is good
